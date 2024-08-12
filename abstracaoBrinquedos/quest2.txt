@@ -1,0 +1,9 @@
+Sobrescrita
+
+Método m1() em B: Sobrescreve o método  m1() da classe  A  porque tem a mesma assinatura.
+
+### Sobrecarga
+
+- Construtores em  A   :  A()  e  A(int x)  estão sobrecarregados na classe  A .
+- Métodos em  A   :  m1()  e  m1(int h)  estão sobrecarregados na classe  A .
+- Método  m1(double x, double y)  em  B   : Sobrecarga na classe  B  (é um novo método com nome  m1 ).
